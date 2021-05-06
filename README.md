@@ -1,5 +1,4 @@
-# Operating-systems
-Paging and Replacement
+#Paging and Replacement
 Simulated some of paging replacement algorithms
 The algorithms implemented are as follows:
 • Optimal
